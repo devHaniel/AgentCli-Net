@@ -9,6 +9,11 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚══╝   ╚═╝   ╚══════╝
 ```
 
+# Capturas
+<img width="698" height="578" alt="Captura desde 2026-06-21 23-33-29" src="https://github.com/user-attachments/assets/1f114aa1-de16-4cac-9f3c-8bd13dcd8520" />
+
+---
+
 CLI de chat con IA para terminal, construido en **.NET 10**. Soporta múltiples agentes (Gemini, Groq, OpenAI), historial de conversaciones persistente y memoria de usuario entre sesiones.
 
 ---
