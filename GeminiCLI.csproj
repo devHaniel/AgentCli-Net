@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackAsTool>true</PackAsTool>
+
+    <!-- comando que escribirá el usuario -->
+    <ToolCommandName>agentecli-net</ToolCommandName>
+
+    <!-- nombre del paquete NuGet -->
+    <PackageId>geminicli-net</PackageId>
+
+    <Version>2.0.0</Version>
+
+    <Authors>Haniel</Authors>
+
+    <Description>
+        Agent AI CLI assistant powered by .NET
+    </Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetEnv" Version="3.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="10.0.9" />
+  </ItemGroup>
+
+</Project>

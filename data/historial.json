@@ -1,0 +1,90 @@
+[
+  {
+    "Titulo": "prueba",
+    "Mensajes": []
+  },
+  {
+    "Titulo": "hola geminis, c",
+    "Mensajes": []
+  },
+  {
+    "Titulo": "sigues ah\u00ED?",
+    "Mensajes": []
+  },
+  {
+    "Titulo": "pruebas",
+    "Mensajes": []
+  },
+  {
+    "Titulo": "prueba nueva",
+    "Mensajes": [
+      {
+        "Tu": "que talk",
+        "Ia": "Error conectando con Gemini."
+      },
+      {
+        "Tu": "como te encuentras",
+        "Ia": "Error conectando con Gemini."
+      }
+    ]
+  },
+  {
+    "Titulo": "C#",
+    "Mensajes": [
+      {
+        "Tu": "hola gemini, que sabes de C# .NET?",
+        "Ia": "Error Gemini: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 48.362206894s."
+      },
+      {
+        "Tu": "hola geminis, que sabes sobre c#",
+        "Ia": "Error Gemini: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 11.498224961s."
+      },
+      {
+        "Tu": "que sabes de C#",
+        "Ia": "Error Gemini: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 16.627503791s."
+      },
+      {
+        "Tu": "hola",
+        "Ia": "Error Gemini: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 11.980549972s."
+      }
+    ]
+  },
+  {
+    "Titulo": "ninguna",
+    "Mensajes": [
+      {
+        "Tu": "holaa",
+        "Ia": "\u00A1Holaaa! \u00A1Qu\u00E9 bueno verte por aqu\u00ED!\n\nMe acuerdo que la \u00FAltima vez est\u00E1bamos pensando en la vida de programador para el futuro, y tambi\u00E9n mencionaste que te comenzaba a interesar un poco Python, adem\u00E1s de C#.\n\nCu\u00E9ntame, \u00BFhay algo espec\u00EDfico que te tenga pensando hoy sobre C#, Python, o esa vida de programador que imaginabas?"
+      },
+      {
+        "Tu": "que modelo eres?",
+        "Ia": "Error Groq: The model \u0060meta-llama/llama-4-maverick-17b-128e-instruct\u0060 does not exist or you do not have access to it."
+      },
+      {
+        "Tu": "holaa",
+        "Ia": "\u00A1Holaaa de nuevo!\n\nDisculpa el error anterior, parece que hubo un problema con mi modelo. Pero no te preocupes, estoy aqu\u00ED para charlar contigo.\n\nVolviendo a nuestra conversaci\u00F3n anterior, \u00BFqu\u00E9 te parece si retomamos el tema de C# y Python? \u00BFHas podido explorar un poco m\u00E1s sobre estas tecnolog\u00EDas o tienes alguna pregunta espec\u00EDfica sobre ellas?\n\nY \u00BFc\u00F3mo va tu inter\u00E9s en la vida de programador? \u00BFTe has planteado alg\u00FAn objetivo o proyecto en mente?"
+      },
+      {
+        "Tu": "que modelo eres?",
+        "Ia": "\u00A1Hola de nuevo!\n\nDisculpa nuevamente el error anterior. Me parece que hubo un problema con mi modelo anterior, pero ya estoy funcionando correctamente con un nuevo modelo.\n\nPara responder a tu pregunta, soy un modelo de lenguaje basado en inteligencia artificial, y mi arquitectura se basa en una serie de modelos de lenguaje transformadores. Mi funci\u00F3n es entender y responder a las preguntas y comentarios que me haces, como si estuvieras conversando con una persona.\n\nNo te preocupes por los detalles t\u00E9cnicos, lo importante es que estoy aqu\u00ED para charlar contigo sobre C#, Python, y cualquier otro tema que te interese.\n\n\u00BFQuieres retomar nuestra conversaci\u00F3n anterior sobre C# y Python? \u00BFO prefieres hablar sobre algo nuevo?"
+      }
+    ]
+  },
+  {
+    "Titulo": "prueba Python",
+    "Mensajes": [
+      {
+        "Tu": "que modelo eres",
+        "Ia": "\u00A1Hola de nuevo!\n\nSoy un modelo de lenguaje basado en inteligencia artificial, dise\u00F1ado para simular conversaciones humanas. Mi funci\u00F3n principal es entender y responder a las preguntas y temas que t\u00FA, como usuario, quieras discutir.\n\nEn nuestra conversaci\u00F3n anterior, mencionaste que estabas pensando en la vida de programador para el futuro y que te estabas interesando en Python, adem\u00E1s de C#. \u00BFC\u00F3mo te va con tus objetivos de programaci\u00F3n? \u00BFHas podido avanzar en tus proyectos o aprendizaje de Python y C#?"
+      },
+      {
+        "Tu": "si, me llama mucho la atenci\u00F3n python, crees que se aclopara a un perfil backedn c#?",
+        "Ia": "\u00A1Excelente elecci\u00F3n considerando Python! Es un lenguaje muy vers\u00E1til y ampliamente utilizado en diversas \u00E1reas, incluyendo el desarrollo backend.\n\nEn cuanto a si Python se puede acoplar a un perfil backend con C#, la respuesta es s\u00ED. De hecho, muchas empresas y proyectos utilizan ambos lenguajes en conjunto. Aqu\u00ED hay algunas razones por las que podr\u00EDas considerar combinar Python y C# en un perfil backend:\n\n1. **Python para an\u00E1lisis de datos y machine learning**: Python es muy popular en el campo del an\u00E1lisis de datos y el aprendizaje autom\u00E1tico (machine learning). Puedes utilizar librer\u00EDas como Pandas, NumPy y scikit-learn para procesar y analizar datos.\n2. **C# para desarrollo de aplicaciones**: C# es un lenguaje muy popular para desarrollar aplicaciones Windows y web. Puedes utilizar C# para crear la l\u00F3gica de negocio y la capa de presentaci\u00F3n de tu aplicaci\u00F3n, mientras que Python se encarga del an\u00E1lisis de datos y la inteligencia artificial.\n3. **Integraci\u00F3n mediante APIs**: Puedes crear APIs (Interfaz de Programaci\u00F3n de Aplicaciones) en C# para que Python pueda interactuar con tu aplicaci\u00F3n. De esta manera, Python puede consumir los servicios de tu aplicaci\u00F3n C# y viceversa.\n4. **Uso de frameworks y librer\u00EDas**: Existen frameworks y librer\u00EDas que permiten la integraci\u00F3n entre Python y C#, como por ejemplo:\n * **IronPython**: Es un int\u00E9rprete de Python para .NET, que te permite ejecutar c\u00F3digo Python en una aplicaci\u00F3n C#.\n * **Python.NET**: Es un paquete que permite interactuar con el runtime de .NET desde Python.\n\nEn resumen, Python y C# pueden coexistir en un perfil backend, y su combinaci\u00F3n puede ser beneficiosa para proyectos que requieren an\u00E1lisis de datos, machine learning y desarrollo de aplicaciones.\n\n\u00BFQu\u00E9 te parece si exploramos m\u00E1s a fondo c\u00F3mo podr\u00EDas integrar Python y C# en un proyecto? \u00BFTienes alg\u00FAn objetivo espec\u00EDfico en mente para tu proyecto backend?"
+      },
+      {
+        "Tu": "holaa",
+        "Ia": "\u00A1Hola de nuevo!\n\nMe alegra verte de regreso. \u00BFQuieres seguir hablando sobre tus objetivos de programaci\u00F3n y c\u00F3mo podr\u00EDas integrar Python y C# en un proyecto backend? \u00BFO tienes alg\u00FAn nuevo tema en mente que te gustar\u00EDa discutir?\n\nRecuerdo que estabas pensando en la vida de programador para el futuro y que te estabas interesando en Python, adem\u00E1s de C#. \u00BFC\u00F3mo te va con tus objetivos de programaci\u00F3n? \u00BFHas podido avanzar en tus proyectos o aprendizaje de Python y C#?\n\n\u00BFQuieres que retomemos la conversaci\u00F3n anterior o que comencemos algo nuevo?"
+      }
+    ]
+  }
+]

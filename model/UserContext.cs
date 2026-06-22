@@ -1,0 +1,12 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace GeminiCLI.model
+{
+    public class UserContext
+    {
+    public List<ContextItem> Items { get; set; } = [];
+    }
+}
