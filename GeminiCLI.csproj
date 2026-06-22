@@ -12,7 +12,7 @@
     <ToolCommandName>agentecli-net</ToolCommandName>
 
     <!-- nombre del paquete NuGet -->
-    <PackageId>geminicli-net</PackageId>
+    <PackageId>agentecli-net</PackageId>
 
     <Version>2.0.0</Version>
 
